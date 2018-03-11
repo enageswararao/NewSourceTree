@@ -4,10 +4,19 @@
   <artifactId>PageObjectModelWithoutPageFactor</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
+<<<<<<< HEAD
     <dependency>
       <groupId>com.test</groupId>
       <artifactId>testng.com</artifactId>
     </dependency>
     
+=======
+
+
+    <dependency>
+      <groupId>Nagesh</groupId>
+      <artifactId>epam.nagesh</artifactId>
+    </dependency>
+>>>>>>> S_301234_FeaturedAdded
   </dependencies>
 </project>
