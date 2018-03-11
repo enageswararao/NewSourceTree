@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/apache-mime4j-0.6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/bsh-2.0b4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/cglib-nodep-2.1_3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/commons-codec-1.10.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/commons-exec-1.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/commons-io-2.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/commons-logging-1.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/gson-2.3.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/guava-19.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/hamcrest-core-1.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/hamcrest-library-1.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/httpclient-4.5.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/httpcore-4.4.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/httpmime-4.5.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/jcommander-1.48.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/jna-4.1.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/jna-platform-4.1.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/junit-4.12.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/netty-3.5.7.Final.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/phantomjsdriver-1.2.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/selenium-java-2.53.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/selenium-java-2.53.1-srcs.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/testng-6.9.9.jar!/" />
+    <conelement value="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src/main/java" expected_position="0" />
+      <src_folder value="file://$MODULE_DIR$/src/test/java" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/src/test/resources" expected_position="2" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="J2SE-1.5" jdkType="JavaSDK" />
+    <orderEntry type="library" name="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER" level="application" />
+    <orderEntry type="module-library">
+      <library name="apache-mime4j-0.6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/apache-mime4j-0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bsh-2.0b4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/bsh-2.0b4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cglib-nodep-2.1_3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/cglib-nodep-2.1_3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.10.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/commons-codec-1.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-exec-1.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/commons-exec-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-2.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/commons-io-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/commons-logging-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gson-2.3.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/gson-2.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guava-19.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/guava-19.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hamcrest-core-1.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/hamcrest-core-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hamcrest-library-1.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/hamcrest-library-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-4.5.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/httpclient-4.5.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-4.4.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/httpcore-4.4.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpmime-4.5.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/httpmime-4.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcommander-1.48.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/jcommander-1.48.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jna-4.1.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/jna-4.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jna-platform-4.1.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/jna-platform-4.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit-4.12.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/junit-4.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netty-3.5.7.Final.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/netty-3.5.7.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="phantomjsdriver-1.2.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/phantomjsdriver-1.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="selenium-java-2.53.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/selenium-java-2.53.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="selenium-java-2.53.1-srcs.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/selenium-java-2.53.1-srcs.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="testng-6.9.9.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/VMZosft/PageObjectModelWithoutPageFactor/lib/testng-6.9.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
